@@ -10,7 +10,7 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 
 | Tema | Archivo |
 |------|---------|
-| Pentest a un Wordpress | (pdf) |
+| Pentest a un Wordpress | <a href="https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Pentest%20Wodrdpress.pdf">Documentación</a> |
 
 
 
