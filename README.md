@@ -14,6 +14,7 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 | Generación de reportes HTML a partir de escaneos Nmap | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Generar%20Reportes%20Nmap.pdf) |
 | Instalación de un IDS/IPS (Suricata) | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Suricata.pdf) |
 | Topología DMVPN Hub-and-Spoke | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/DMVPN.pdf) |
+| Mr Robot (CTF) | [Write Up]([https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/DMVPN.pdf](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Mr%20Robot.pdf)) |
 
 
 
