@@ -10,11 +10,12 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 
 | Tema | Archivo |
 |------|---------|
-| Pentest a un Wordpress | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Pentest%20Wodrdpress.pdf) |
-| Generación de reportes HTML a partir de escaneos Nmap | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Generar%20Reportes%20Nmap.pdf) |
-| Instalación de un IDS/IPS (Suricata) | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Suricata.pdf) |
-| Topología DMVPN Hub-and-Spoke | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/DMVPN.pdf) |
-| Mr Robot (CTF) | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Mr%20Robot.pdf) |
+| Pentest a un Wordpress <br><img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Pentest%20Wodrdpress.pdf) |
+| Generación de reportes HTML a partir de escaneos Nmap <br><img src="https://img.shields.io/badge/-Nmap-214A6E?&style=for-the-badge&logo=nmap&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Generar%20Reportes%20Nmap.pdf) |
+| Instalación de un IDS/IPS (Suricata) <br><img src="https://img.shields.io/badge/-Suricata-EF7C2D?&style=for-the-badge&logo=suricata&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Suricata.pdf) |
+| Topología DMVPN Hub-and-Spoke <br><img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/DMVPN.pdf) |
+| Mr Robot (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Mr%20Robot.pdf) |
+| Valenfind (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Valenfind.pdf) |
 
 
 
