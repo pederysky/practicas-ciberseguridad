@@ -16,6 +16,7 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 | Topología DMVPN Hub-and-Spoke <br><img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/DMVPN.pdf) |
 | Mr Robot (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Mr%20Robot.pdf) |
 | Valenfind (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Valenfind.pdf) |
+| Arkime para análisis de tráfico de malware <br><img src="https://img.shields.io/badge/-Arkime-6C4AB6?style=for-the-badge" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Arkime.pdf) |
 
 
 
