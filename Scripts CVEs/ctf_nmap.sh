@@ -22,7 +22,7 @@ banner() {
   echo "                                              __/ |             "
   echo "                                             |___/              "
   echo -e "${RESET}"
-  echo -e "${YELLOW}  Reconocimiento automático en dos fases — by ctfrecon.sh${RESET}"
+  echo -e "${YELLOW}  Reconocimiento automático en dos fases — by ctf_nmap.sh${RESET}"
   echo ""
 }
 
