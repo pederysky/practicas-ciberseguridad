@@ -7,7 +7,6 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 - Herramientas y flujos de trabajo
 
 ## PDFs
-
 | Tema | Archivo |
 |------|---------|
 | Pentest a un Wordpress <br><img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Pentest%20Wodrdpress.pdf) |
@@ -19,7 +18,7 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 | Arkime para análisis de tráfico de malware <br><img src="https://img.shields.io/badge/-Arkime-6C4AB6?style=for-the-badge" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Arkime.pdf) |
 | Rabbit Store (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Rabbit%20Store.pdf) |
 | Kenobi (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Kenobi.pdf) |
-
+| Oh My WebServer (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Oh-My-WebServer.pdf) |
 
 
 
