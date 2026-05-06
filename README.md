@@ -21,7 +21,7 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 | Oh My WebServer (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Oh-My-WebServer.pdf) |
 | Binex (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Binex.pdf) |
 | Pyrat (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Pyrat.pdf) |
-
+| Laboratorio DevSecOps <br><img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=sonarqube&logoColor=white" /> <img src="https://img.shields.io/badge/-Semgrep-1B2D3E?&style=for-the-badge&logo=semgrep&logoColor=white" /> <img src="https://img.shields.io/badge/-DefectDojo-E95420?&style=for-the-badge&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/LaboratorioDevSecOps.pdf) |
 
 
 
