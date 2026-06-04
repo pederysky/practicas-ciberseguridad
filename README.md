@@ -22,7 +22,8 @@ Este repositorio contiene mis apuntes y prácticas de ciberseguridad, la mayorí
 | Binex (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Binex.pdf) |
 | Pyrat (CTF) <br><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> | [Write Up](https://github.com/pederysky/practicas-ciberseguridad/blob/main/CTFs/Pyrat.pdf) |
 | Laboratorio DevSecOps <br><img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=sonarqube&logoColor=white" /> <img src="https://img.shields.io/badge/-Semgrep-1B2D3E?&style=for-the-badge&logo=semgrep&logoColor=white" /> <img src="https://img.shields.io/badge/-DefectDojo-E95420?&style=for-the-badge&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/LaboratorioDevSecOps.pdf) |
-
+| Informe Pericial Forense <br><img src="https://img.shields.io/badge/-Forense-4B4B4B?&style=for-the-badge&logo=files&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/Informe_Pericial.pdf) |
+| Análisis de RAM de un equipo Windows <br><img src="https://img.shields.io/badge/-Forense-4B4B4B?&style=for-the-badge&logo=files&logoColor=white" /> <img src="https://img.shields.io/badge/-Volatility-7B2D8B?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> | [Documentación](https://github.com/pederysky/practicas-ciberseguridad/blob/main/Pr%C3%A1cticas/An%C3%A1lisis%20de%20RAM%20de%20un%20equipo%20Windows.pdf) |
 
 
 
